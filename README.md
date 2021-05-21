@@ -1,1 +1,1 @@
-# dotfiles
+Qtile pesonal set-up
