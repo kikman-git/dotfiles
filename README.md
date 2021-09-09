@@ -1,1 +1,1 @@
-Qtile pesonal set-up
+Qtile pesonal set-up for ArchLinux
